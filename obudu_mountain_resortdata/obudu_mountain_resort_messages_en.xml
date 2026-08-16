@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Obudu Mountain Resort]]></data>
+  <data name="en_project_author_name"><![CDATA[Developed by  I-360 LIMITED '+234 803 618 2894']]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.i360limited.com/]]></data>
+
+
+
+  <data name="en_pano21_title"><![CDATA[Entrance Gate]]></data>
+  <data name="en_spotpoint66_tooltip"><![CDATA[Water Park View]]></data>
+
+
+  <data name="en_pano37_title"><![CDATA[Water Park View]]></data>
+  <data name="en_spotpoint3260_tooltip"><![CDATA[Water park]]></data>
+  <data name="en_spotpoint3261_tooltip"><![CDATA[Entrance Gate]]></data>
+  <data name="en_spotpoint3263_tooltip"><![CDATA[Devil's Elbow]]></data>
+
+
+  <data name="en_pano39_title"><![CDATA[Pool Area]]></data>
+  <data name="en_spotpoint3262_tooltip"><![CDATA[Water Park View]]></data>
+
+
+  <data name="en_pano36_title"><![CDATA[Devil’s Elbow]]></data>
+  <data name="en_spotpoint3328_tooltip"><![CDATA[Mountain Top]]></data>
+  <data name="en_spotpoint3329_tooltip"><![CDATA[Entrance Gate]]></data>
+
+
+  <data name="en_pano23_title"><![CDATA[Obudu Mountain Resort]]></data>
+  <data name="en_spotpoint3342_tooltip"><![CDATA[Reception]]></data>
+  <data name="en_spotpoint3343_tooltip"><![CDATA[Steakhouse]]></data>
+  <data name="en_spotpoint3344_tooltip"><![CDATA[Mini Golf Course]]></data>
+  <data name="en_spotpoint3345_tooltip"><![CDATA[Entrance Gate]]></data>
+  <data name="en_spotpoint3346_tooltip"><![CDATA[Governors Chalet]]></data>
+  <data name="en_spotpoint3347_tooltip"><![CDATA[Mountain Villa Apartments]]></data>
+  <data name="en_spotpoint3348_tooltip"><![CDATA[Canopy Walkeway]]></data>
+  <data name="en_spotpoint3349_tooltip"><![CDATA[Grotto Falls]]></data>
+
+
+  <data name="en_pano32_title"><![CDATA[Reception]]></data>
+  <data name="en_spotpoint3575_tooltip"><![CDATA[Mountain Top]]></data>
+  <data name="en_spotpoint3660_tooltip"><![CDATA[Gallery]]></data>
+
+
+  <data name="en_pano41_title"><![CDATA[Gallery]]></data>
+  <data name="en_spotpoint3662_tooltip"><![CDATA[Reception]]></data>
+  <data name="en_spotpoint3663_tooltip"><![CDATA[Cable Car Station]]></data>
+
+
+  <data name="en_pano43_title"><![CDATA[Cable Car Park]]></data>
+  <data name="en_spotpoint3667_tooltip"><![CDATA[Cable Car Station]]></data>
+
+
+  <data name="en_pano42_title"><![CDATA[Cable Car Station]]></data>
+  <data name="en_spotpoint3664_tooltip"><![CDATA[Cable Car Tower]]></data>
+  <data name="en_spotpoint3665_tooltip"><![CDATA[Reception]]></data>
+  <data name="en_spotpoint3666_tooltip"><![CDATA[Cable Car Park]]></data>
+
+
+  <data name="en_pano44_title"><![CDATA[Mini Golf Course]]></data>
+  <data name="en_spotpoint3900_tooltip"><![CDATA[Reception]]></data>
+  <data name="en_spotpoint3901_tooltip"><![CDATA[Resort Top]]></data>
+
+
+  <data name="en_pano33_title"><![CDATA[Grotto]]></data>
+  <data name="en_spotpoint3339_tooltip"><![CDATA[Mountain Top]]></data>
+  <data name="en_spotpoint3340_tooltip"><![CDATA[Grotto Falls]]></data>
+  <data name="en_spotpoint3341_tooltip"><![CDATA[Downstream]]></data>
+
+
+  <data name="en_pano3264_title"><![CDATA[Grotto Falls]]></data>
+  <data name="en_spotpoint3899_tooltip"><![CDATA[Grotto Canopy]]></data>
+
+
+  <data name="en_pano34_title"><![CDATA[Grotto River]]></data>
+  <data name="en_spotpoint3897_tooltip"><![CDATA[Grotto Canopy]]></data>
+  <data name="en_spotpoint3898_tooltip"><![CDATA[Grotto Falls]]></data>
+
+
+  <data name="en_pano25_title"><![CDATA[Steakhouse]]></data>
+  <data name="en_spotpoint3350_tooltip"><![CDATA[Governors Chalets]]></data>
+  <data name="en_spotpoint3351_tooltip"><![CDATA[Reception]]></data>
+  <data name="en_spotpoint3352_tooltip"><![CDATA[Steakhouse Loung]]></data>
+  <data name="en_spotpoint3353_tooltip"><![CDATA[Steakhouse Restaurant]]></data>
+  <data name="en_spotpoint3354_tooltip"><![CDATA[Villa Apartments]]></data>
+
+
+  <data name="en_pano26_title"><![CDATA[Steakhouse Loung]]></data>
+  <data name="en_spotpoint3674_tooltip"><![CDATA[Stakehouse Front]]></data>
+
+
+  <data name="en_pano27_title"><![CDATA[Steakhouse Restaurant ]]></data>
+  <data name="en_spotpoint3675_tooltip"><![CDATA[Steakhouse Front]]></data>
+
+
+  <data name="en_pano29_title"><![CDATA[Canopy Walkway Tower]]></data>
+  <data name="en_spotpoint3902_tooltip"><![CDATA[Resort Top]]></data>
+
+
+  <data name="en_pano28_title"><![CDATA[Governors chalet]]></data>
+  <data name="en_spotpoint3661_tooltip"><![CDATA[Mountain Top]]></data>
+
+
+  <data name="en_pano31_title"><![CDATA[Mountain Villa Apartment]]></data>
+  <data name="en_spotpoint3670_tooltip"><![CDATA[Mountain Top]]></data>
+  <data name="en_spotpoint3672_tooltip"><![CDATA[Presidential Villa]]></data>
+
+
+  <data name="en_pano30_title"><![CDATA[Presidential Villa]]></data>
+  <data name="en_spotpoint3673_tooltip"><![CDATA[Villa Apartment]]></data>
+
+
+  <data name="en_pano35_title"><![CDATA[Cable Car Tower]]></data>
+  <data name="en_spotpoint3668_tooltip"><![CDATA[Cable Car Station]]></data>
+  <data name="en_spotpoint3669_tooltip"><![CDATA[Entrance Gate]]></data>
+
+
+
+
+
+
+  <data name="en_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="en_descriptiondisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="en_controlBar_classicautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicdisplayInfoTip"><![CDATA[Show information]]></data>
+  <data name="en_controlBar_classichideInfoTip"><![CDATA[Hide information]]></data>
+  <data name="en_controlBar_classicenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="en_controlBar_classicenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://www.i360limited.com/]]></data>
+  <data name="en_prevnexttheme1prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme1nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="en_logo2websiteurl"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_logo2tooltipText"><![CDATA[Open website]]></data>
+  <data name="en_buttontooltip"><![CDATA[Locate on Map]]></data>
+  <data name="en_buttononclick108635openurlwebsiteurl"><![CDATA[https://goo.gl/maps/XWaA6FAWLWxgfmDa8]]></data>
+  <data name="en_button1tooltip"><![CDATA[]]></data>
+  <data name="en_button2tooltip"><![CDATA[]]></data>
+  <data name="en_socialButtonsocial_href"><![CDATA[]]></data>
+  <data name="en_socialButton2social_href"><![CDATA[]]></data>
+  <data name="en_socialButton2tw_via"><![CDATA[]]></data>
+  <data name="en_socialButton2tw_text"><![CDATA[]]></data>
+  <data name="en_socialButton2tw_hashtag"><![CDATA[]]></data>
+  <data name="en_socialButton1social_href"><![CDATA[]]></data>
+  <data name="en_socialButton1fb_appid"><![CDATA[]]></data>
+  <data name="en_socialButton1fb_ref"><![CDATA[]]></data>
+  <data name="en_floorPlandisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareembed_text"><![CDATA[Copy paste this code in your page to embed this virtual tour]]></data>
+  <data name="en_socialShareembed_width_label"><![CDATA[Width]]></data>
+  <data name="en_socialShareembed_height_label"><![CDATA[Height]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[NIGERIAN TOURISM DEVELOPMENT CORPORATION (NTDC) ]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenuopenVrLabel"><![CDATA[Enter VR mode]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+  <data name="en_button3tooltip"><![CDATA[]]></data>
+  <data name="en_HomeLogopanoid"><![CDATA[]]></data>
+  <data name="en_webvrbuttontooltip"><![CDATA[]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+  <data name="en_pano21_description"><![CDATA[<div>Welcome to Obudu Mountain Resort.&nbsp;</div><div><br></div><div>Obudu is unique as a world class resort and the jewel of the popular Cross River tourist region. Nestled on the picturesque plateau on the Oshie Ridge of the Sankwala Mountains. It is located 110 kilometers East of Ogoja, 65 kilometers from the town of Obudu and a five hour hike from the Cameroon border.</div><div><br></div><div>The gate, with its imposing ox-head and welcome notice, opens with a gentle feel of some hidden treasure that is out rightly intimidating.</div>]]></data>
+
+
+
+  <data name="en_pano37_description"><![CDATA[At the base of the hills is located a breathtaking state of the art waterpark with facilities for swimming and water slides for children, teens and adults and tourists alike.]]></data>
+
+
+
+  <data name="en_pano39_description"><![CDATA[The Obudu WaterPark is an invitation to experience unequalled family fun at Obudus’s scenic environment. The Waterpark consists of swimming pool and, exciting water games, breath-taking slides, as well as other exciting attractions.]]></data>
+
+
+
+  <data name="en_pano36_description"><![CDATA[The hilltop (cattle ranch) is about 11KM of winded of elbow like shape road from the base and can be accessed by either the cable-car or the road. The ranch has numerous pleasant mountain-area and country-side views.]]></data>
+
+
+
+  <data name="en_pano23_description"><![CDATA[<div>Obudu Resort arguably the most popular tourist centre in Nigeria has been variously described as a perfect marriage between Gods wonders of creation in conquering his environment.</div><div><br></div><div>The resort which is 24 square kilometres in size has capitalised on its altitude to provide guests with the best view points and fresh, invigorating mountain air.</div>]]></data>
+
+
+
+  <data name="en_pano32_description"><![CDATA[With well over a 160 accommodation categories, comprising of standard rooms, executives, huts and chalets to a presidential apartment. Amidst its extreme ecotourism potentials, is room for other activities. Lovers of ecotourism and adventure, bored with the comfort of the hotel accommodations could easily get busy with a ride down the hill on the cable car and indulge in some water sports.]]></data>
+
+
+
+  <data name="en_pano41_description"><![CDATA[Very close to the reception is gallery that houses the &nbsp;animal remains, e.g. cattle hones, African craft, spears, skins and beautifully designed calabash. This is the first place visitor from the cable car passes through to the other part of the resort.]]></data>
+
+
+
+
+
+
+  <data name="en_pano42_description"><![CDATA[Available is a cable car system which brings guests from the resort entrance at the bottom of the mountain to the ranch at the hill top, this is one of the longest cable car facilities in the world.]]></data>
+
+
+
+  <data name="en_pano44_description"><![CDATA[Seating on the altitude of 1,575.76 metres above sea level, the resort has a temperature of between 26°C to 32°C between November and January, and the nights are cool to cold during this period. Meanwhile, the lowest temperature ranges of 4°C to 10°C are recorded between June and September, which is the rainy season.]]></data>
+
+
+
+  <data name="en_pano33_description"><![CDATA[The ecosystem at the Resort presents a unique feature of interaction between man and nature.]]></data>
+
+
+
+  <data name="en_pano3264_description"><![CDATA[A short walk takes you to the spectacular grotto. This natural swimming pool with sparkling pure water provides a clear view of the long winding waterfall and green mountain ranges surround the natural reserve.<div><br></div><div><br></div>]]></data>
+
+
+
+  <data name="en_pano34_description"><![CDATA[A short walk takes you to the spectacular grotto. This natural swimming pool with sparkling pure water provides a clear view of the long winding waterfall and green mountain ranges surround the natural reserve.]]></data>
+
+
+
+  <data name="en_pano25_description"><![CDATA[This is the STEAK HOUSE, it provides all the refreshment needs of visitors at the resort. The steak house also has a lounge, bar and restaurant.]]></data>
+
+
+
+  <data name="en_pano26_description"><![CDATA[<div>The lounge is equipped with state of the art facilities, giving visitors the pleasure of luxury.&nbsp;</div><div><br></div><div>While at this place who know you may have the privilege of seeing the mountain chief who is a native of the mountains village.</div>]]></data>
+
+
+
+  <data name="en_pano27_description"><![CDATA[Obudu possesses state of the art restaurants. The meals served at these restaurants are of international standard and the services are so well maintained that it can be compared to your home service.]]></data>
+
+
+
+  <data name="en_pano29_description"><![CDATA[The canopy walkway is about one of the most adventurous part of the resort, its span is about 100 meters from one end of the tower to the other and 50 meters high from the forest floor. The walkway allows tourists to experience a walk in the upper canopy of the forest. Free to move about unhindered, photographers, nature lovers, researchers, and tourist of all ages are amazed at the extraordinary diversity of canopy life and the breathtaking view from such height. It’s a totally different world in the tree canopy.]]></data>
+
+
+
+  <data name="en_pano28_description"><![CDATA[The Obudu Ranch Resort has 20 African bungalows, 20 Mountain Villas providing 60 rooms and a newly built International Conference Centre that can seat 250 persons. There is an Executive Board Room which can seat 30 persons, two Syndicate Rooms that can seat 40 persons each in addition to a posh restaurant, bar and an Internet Service Room.]]></data>
+
+
+
+  <data name="en_pano31_description"><![CDATA[<div>Tucked away in the most serene and spectacular part of the resort is the Mountain Villa, located within the villa are brown wooded cabin apartments of different shapes and sizes, these cabin are all suspended about one to two meters from ground level. The presidential villa is also located at another section of this villa. &nbsp;</div><div><br></div><div>Indeed, the ranch is a tourist haven with its inviting natural endowment to be explored. It's well equipped with modern facilities like an international hotel, an air-strip, intercom phones, gymnasium, tennis court, horse riding, bird watching etc.</div>]]></data>
+
+
+
+  <data name="en_pano30_description"><![CDATA[The presidential villa is located on the highest peak of the Mountain Villa, at this sport visitors are treated to spectacular view of the resort, the Villa also has an Helipad for airlifting and landing.]]></data>
+
+
+
+  <data name="en_pano35_description"><![CDATA[<div>This is about one of the highest peak at the Resort. At this point one will have a clear view of the spectacular spots within the resort such as the zigzag road leading to the hill top, the mountain villa, the serene and undulating landscape, the passing cable car, and the intermittent cloud movement . While taking a ride in the cable car one can ride in and out of clouds that are at various spots on the hill.&nbsp;</div><div><br></div><div>The Resort is at an elevation of about 5,200 ft (1,576 m) above sea level, and enjoys a cool, temperate climate. It is an area of idyllic tranquillity, beautiful scenery and breathtaking view.</div>]]></data>
+
+
+</krpano>
